@@ -1,0 +1,86 @@
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\OOP2Project.exe.config
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\OOP2Project.exe
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\OOP2Project.pdb
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\Dapper.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\LiveCharts.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\Dapper.xml
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\LiveCharts.pdb
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\LiveCharts.xml
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.csproj.AssemblyReference.cache
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.dashboard.resources
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.Form1.resources
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.orders.resources
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.register.resources
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.login.resources
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.admin.resources
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.products.resources
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.user_control.resources
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.Seller.resources
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.Properties.Resources.resources
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.csproj.GenerateResource.cache
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.csproj.CoreCompileInputs.cache
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.csproj.CopyComplete
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.exe
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.pdb
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\EntityFramework.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\EntityFramework.xml
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.revenue.resources
+C:\Users\Taseen Al Kabir\source\repos\OOP2Project\obj\Debug\OOP2Project.distributor.resources
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\OOP2Project.exe.config
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\OOP2Project.exe
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\OOP2Project.pdb
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\Dapper.dll
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\EntityFramework.dll
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\LiveCharts.dll
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\Dapper.xml
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\LiveCharts.pdb
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\LiveCharts.xml
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Hp\Downloads\OOP2Project\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.dashboard.resources
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.distributor.resources
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.Form1.resources
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.orders.resources
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.register.resources
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.login.resources
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.admin.resources
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.products.resources
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.revenue.resources
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.user_control.resources
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.Seller.resources
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.Properties.Resources.resources
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.csproj.CopyComplete
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.exe
+C:\Users\Hp\Downloads\OOP2Project\obj\Debug\OOP2Project.pdb
